@@ -1,0 +1,42 @@
+body {
+    display: flex;
+    background-color: #f0f8ff;
+    column-gap: 30px;
+}
+div {
+    display: flexbox;
+}
+h1 {
+    color:#171980;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+h2 {
+    color: #171980;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+p, li, a {
+    color: #535a5e;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+img {
+    height: auto;
+    width: 350px;
+    border-style: solid;
+    box-shadow: 8px 8px #808080;
+}
+table, td {
+    color: #535a5e;
+    font-size: 25px;
+    border-style: dotted;
+}
+th {
+    background-color: #171980;
+    color: #abaeb6;
+    font-family: 'Courier New', Courier, monospace;
+}
+a:hover {
+    color: #f08080;
+}
